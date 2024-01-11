@@ -1,0 +1,20 @@
+{
+  "hosting": {
+    "site": "test-project-818f6",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html "
+      }
+    ],
+    "frameworksBackend": {
+      "region": "europe-west1"
+    }
+  }
+}

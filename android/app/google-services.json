@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "238909171496",
+    "firebase_url": "https://test-project-818f6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "test-project-818f6",
+    "storage_bucket": "test-project-818f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238909171496:android:8e626842ca7c5b5ca8121d",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVyY5A1AFh9JovDKcVwccwvR5FfBXgbd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
